@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BUppvEJL5OZcC6F1rRxeylzUuXCwxpeBKSBJXxJrC8c=",
+  "Source": "Csv.Api",
+  "BasePath": "_content/Csv.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
