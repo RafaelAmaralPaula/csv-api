@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
- - É um projeto referente ao desafio técnico para desenvolvedor backend organizado pela **HAVEX**.
+ - É um projeto referente ao desafio técnico para desenvolvedor backend organizado pela **HVEX**.
  
  - Consiste basicamente em um programa bem simples , faz leitura leitura de um arquivo csv
  
